@@ -1,0 +1,11 @@
+-Stack
+EESSS
+ESS
+ENEE
+WS
+
+-Queue
+SSEES
+SES
+NEEE
+WS
